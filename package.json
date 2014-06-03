@@ -1,0 +1,14 @@
+{
+  "name": "desktop-background",
+  "version": "0.0.1",
+  "description": "Set your desktop background from the command line.",
+  "main": "index.js",
+  "bin": {
+  	"desktop-background": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
