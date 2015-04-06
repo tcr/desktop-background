@@ -4,7 +4,7 @@
   "description": "Set your desktop background from the command line.",
   "main": "index.js",
   "bin": {
-  	"desktop-background": "./index.js"
+  	"desktop-background": "./cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
